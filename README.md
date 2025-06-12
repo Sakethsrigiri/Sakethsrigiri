@@ -24,11 +24,6 @@
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
 
-**Tools & Frameworks:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
-
 **Others:**  
 Git, GitHub, MySQL, ThingSpeak, HTML, CSS
 
@@ -40,15 +35,6 @@ Git, GitHub, MySQL, ThingSpeak, HTML, CSS
 → Real-time MPPT system with ESP32, ThingSpeak integration  
 → [View Project](https://github.com/yourusername/iot-solar-monitor)
 
-🌐 **Portfolio Website**  
-→ Responsive site built with HTML, CSS, and JavaScript  
-→ [Live Demo](https://yourusername.github.io/) | [Code](https://github.com/yourusername/portfolio)
-
-📊 **Data Dashboard**  
-→ Python + Pandas + Matplotlib for data visualization  
-→ [View Project](https://github.com/yourusername/data-dashboard)
-
----
 
 ### 📫 How to Reach Me
 
